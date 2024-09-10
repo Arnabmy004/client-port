@@ -1,0 +1,13 @@
+[
+  {
+    "role": "Web Developer",
+    "organisation": "Barasat Academic Association",
+    "experiences": ["Building a Online Exam Platform"],
+    "imageSrc": "history/baa.png"
+  },
+  {
+    "role": "Web Developer",
+    "organisation": "Chitkara University",
+    "experiences": ["Build a Interview Preparation Website", "Works on Backend"]
+  }
+]

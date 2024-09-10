@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Virtual Class-Room",
+    "imageSrc": "projects/virtual.png",
+    "description": "This a virtual class room with the Admin,user and Instrucotr panel",
+    "skills": ["React", "Express", "Node","MongoDb","Razorpay","NodeMailer"],
+    "demo": "https://elearn-class.vercel.app/",
+    "source": "https://github.com/ghoshariji/virtualclas"
+  },
+  {
+    "title": "Educational App",
+    "imageSrc": "projects/native.jpg",
+    "description": "This is free of cost education for rural areas",
+    "skills": ["React Native", "Express", "Node", "MongoDb"],
+    "demo": "https://github.com/ghoshariji/FirstProject",
+    "source": "https://github.com/ghoshariji/FirstProject"
+  },
+  {
+    "title": "Interview Preparation",
+    "imageSrc": "projects/uprep.png",
+    "description": "This a Interview Preaparation Website for provide guidanace to junior",
+    "skills": ["React", "Express", "Node","MongoDb"],
+    "demo": "https://uprep-form.vercel.app/",
+    "source": "https://github.com/ghoshariji/uprep-link"
+  }
+]

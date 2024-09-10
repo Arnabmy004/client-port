@@ -1,0 +1,50 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JAVASCRIPT",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "NextJS",
+    "imageSrc": "skills/next.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "ExpressJS",
+    "imageSrc": "skills/express.png"
+  },
+  {
+    "title": "SpringBoot",
+    "imageSrc": "skills/spring.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "React Native",
+    "imageSrc": "skills/rnative.png"
+  },
+  {
+    "title": "BootStrap",
+    "imageSrc": "skills/bootStrap.png"
+  },
+  {
+    "title": "Tailwind Css",
+    "imageSrc": "skills/tailwindCss.png"
+  }
+]
